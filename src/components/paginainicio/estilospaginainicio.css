@@ -1,0 +1,19 @@
+#letrero_compañia{
+
+    margin-top: 50px;
+}
+
+#descripcion_compañia{
+
+    margin-top: 30px;
+    max-width:  900px;
+    text-align: center;
+}
+
+#boton_opciones{
+    margin-top: 30px;
+}
+ .btn{
+     margin-left: 20px;
+ }
+ 
