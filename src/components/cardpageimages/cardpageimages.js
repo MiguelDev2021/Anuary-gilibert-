@@ -4,6 +4,7 @@ import Cards from '../cardsimages/cards'
 import './cardpage.css'
 export default class cardpageimages extends Component {
 
+  {}
   constructor(props) {
     super(props);
     this.state = {
